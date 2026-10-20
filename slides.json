@@ -1,0 +1,132 @@
+[
+  {
+    "id": "s01",
+    "title": "人工植牙，安心了解每一步",
+    "narration": "小晴問，醫師，我想先了解植牙是怎麼做的。。牙醫師回答，歡迎一起了解人工植牙。這份簡報會用簡單的方式，說明治療怎麼進行，以及回家後怎麼照顧。您可以逐頁觀看，也可以隨時暫停，向牙醫師提問。每個人的骨頭、牙齦和身體狀況不同，實際療程會依您的情況安排。",
+    "sources": [
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s02",
+    "title": "植牙用人工牙根支撐假牙",
+    "narration": "小晴問，植牙到底是把什麼放進去？。牙醫師回答，人工植牙可以想成，先在缺牙處建立一個人工牙根，再裝上假牙。埋在骨頭裡的部分叫植體，上方透過支台齒，連接看得到的牙冠。植牙可以改善缺牙帶來的不便，但仍然需要每天清潔和定期檢查。",
+    "sources": [
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know",
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/"
+    ]
+  },
+  {
+    "id": "s03",
+    "title": "先確認適合的缺牙治療方式",
+    "narration": "小晴問，缺牙一定要植牙嗎？。牙醫師回答，缺牙的處理方式，包括植牙、牙橋和活動假牙。有些情況也可以先觀察。植牙需要手術與多次回診，請和醫師一起比較優缺點、總療程、費用，以及日後清潔的難易度。了解選擇後，再決定適合自己的方式。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s04",
+    "title": "術前評估會檢查牙齦與骨頭",
+    "narration": "小晴問，開始之前，要先檢查什麼？。牙醫師回答，治療前，醫師會檢查口腔、牙周與咬合，透過影像評估骨頭條件，必要時安排三維斷層，確認神經和上顎竇的位置。若有牙周發炎，通常需要先控制。骨頭不足時，可能要先補骨，或和植牙同時進行，療程也可能更長。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/"
+    ]
+  },
+  {
+    "id": "s05",
+    "title": "完整告知病史，有助安全安排",
+    "narration": "小晴問，我平常有吃藥，需要先停嗎？。牙醫師回答，請主動告訴醫師您的病史、過敏、抽菸習慣，以及所有正在使用的藥物，尤其是抗凝血藥和骨質疏鬆相關藥物。不要自行停藥。若安排鎮靜，請事先確認禁食規定、陪同人員和返家交通，術後依指示避免開車。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know",
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/"
+    ]
+  },
+  {
+    "id": "s06",
+    "title": "麻醉後，醫師把植體放入骨內",
+    "narration": "小晴問，手術時會很痛嗎？。牙醫師回答，植牙手術通常使用局部麻醉。確認麻醉生效後，醫師會準備骨內的植入位置，放入植體，再處理與縫合傷口。有時會留著癒合帽，有時先讓牙齦覆蓋植體。過程中可能感覺到壓力或震動，如果有疼痛，請立即告訴醫師。植牙也有感染、骨整合失敗，以及神經或上顎竇等鄰近構造受損的風險。醫師會依您的位置與狀況，個別說明。",
+    "sources": [
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/",
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/"
+    ]
+  },
+  {
+    "id": "s07",
+    "title": "骨整合需要時間，不能只看表面傷口",
+    "narration": "小晴問，傷口好了，就可以直接咬東西嗎？。牙醫師回答，傷口表面看起來好了，不代表骨頭已經準備好承受咬力。植體需要和周圍骨頭逐漸建立穩定連結，這個階段叫骨整合，常需要數月。醫師會評估何時能裝牙。即拔即種或即時裝牙，需要符合特定條件，並非人人適用。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s08",
+    "title": "確認穩定後，再製作與調整牙冠",
+    "narration": "小晴問，什麼時候才能裝上新的牙齒？。牙醫師回答，確認植體穩定後，醫師會透過掃描或取模來製作牙冠，再檢查外觀、接觸位置與咬合。有些人需要臨時牙冠或多次調整。裝牙後，請學會清潔方式，並依約追蹤。若感覺牙冠鬆動、破裂或咬合不舒服，請回診檢查。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s09",
+    "title": "術後當天，以保護傷口為主",
+    "narration": "小晴問，回家後，我可以怎麼吃、怎麼照顧？。牙醫師回答，術後當天請先休息。麻醉還沒退時，要小心咬傷嘴唇或舌頭，也要避免燙傷。依診所指示咬紗布，不要用力漱口或反覆吐口水。飲食先選溫涼軟食，避免用手術區咬硬物。若安排冰敷，請隔著布、間歇進行。避免抽菸與飲酒，補骨或上顎竇手術的額外限制，也要一起遵守。",
+    "sources": [
+      "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/after-having-dental-implant",
+      "https://www.hey.nhs.uk/patient-leaflet/mouth-care-following-oral-surgery/",
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/"
+    ]
+  },
+  {
+    "id": "s10",
+    "title": "清潔與用藥，依照個別處方執行",
+    "narration": "小晴問，我怕碰到傷口，還需要刷牙嗎？。牙醫師回答，清潔可以幫助降低感染風險。其他牙齒仍要清潔，但手術區何時開始刷牙、怎麼漱口，請依您的醫師指示，不要反覆碰觸傷口。藥物和漱口水要按處方使用，抗生素並非人人都需要，也不要拿以前剩下的藥來吃。有藥物不適時，請聯絡醫療團隊。",
+    "sources": [
+      "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/after-having-dental-implant",
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/"
+    ]
+  },
+  {
+    "id": "s11",
+    "title": "症狀加重或異常出血，需要求助",
+    "narration": "小晴問，怎樣的情況，我應該趕快求助？。牙醫師回答，術後可能有一些滲血、腫痛或瘀青，通常會逐漸改善。若有發燒、流膿、腫痛持續加劇、麻木沒有消退，或覺得植體鬆動，請盡速聯絡診所。若傷口經持續加壓仍大量出血，或出現呼吸、吞嚥困難，以及快速擴大的腫脹，請立即前往急診，不要等待原定回診。",
+    "sources": [
+      "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/after-having-dental-implant",
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/",
+      "https://www.nhs.uk/conditions/dental-abscess/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s12",
+    "title": "每天清潔與定期回診，幫助植牙用得久",
+    "narration": "小晴問，裝完牙以後，就不用管它了嗎？。牙醫師回答，植牙雖然不會蛀牙，但周圍的牙齦與骨頭仍可能發炎，嚴重時會失去支撐。請每天刷牙，依醫療團隊示範使用牙線或合適的牙間刷。定期回診檢查清潔、咬合與植體周圍的狀況。不抽菸、控制血糖，也有助長期維護。若會磨牙，請和醫師討論。",
+    "sources": [
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know"
+    ]
+  },
+  {
+    "id": "s13",
+    "title": "離開診間前，確認自己的照護安排",
+    "narration": "小晴問，離開診間前，我要再確認哪些事？。牙醫師回答，離開診間前，請試著用自己的話說一次：我什麼時候可以清潔手術區？我該怎麼吃、怎麼用藥？遇到哪些情況要聯絡診所？也請確認下一次回診時間，以及上班和非上班時間的求助方式。有任何不清楚的地方，現在就提出來，我們一起確認。",
+    "sources": [
+      "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/after-having-dental-implant"
+    ]
+  },
+  {
+    "id": "s14",
+    "title": "這份簡報提供一般衛教資訊",
+    "narration": "小晴問，每個人的治療方式都一樣嗎？。牙醫師回答，這份簡報提供一般衛教資訊，不能取代您的個別診斷、治療計畫或手術同意說明。內容參考美國食品藥物管理局和英國醫院的患者衛教資料。圖像為概念示意，語音為合成旁白。實際療程、清潔方式、用藥和回診安排，請以您的醫療團隊說明為準。",
+    "sources": [
+      "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know",
+      "https://www.leedsth.nhs.uk/patients/resources/dental-implants/",
+      "https://www.cuh.nhs.uk/patient-information/insertion-of-dental-implants/",
+      "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/after-having-dental-implant"
+    ]
+  }
+]

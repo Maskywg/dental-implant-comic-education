@@ -1,0 +1,6 @@
+.DS_Store
+.hyperframes/
+BRIEF.md
+__pycache__/
+node_modules/
+assets/art/*.png

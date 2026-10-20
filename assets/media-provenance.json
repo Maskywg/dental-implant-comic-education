@@ -1,0 +1,22 @@
+{
+  "type": "AI generated educational manga",
+  "tool": "image_gen built-in",
+  "created": "2026-10-20",
+  "characters": "Fictional East Asian adult patient Xiaoqing and a female dentist. No real patient images.",
+  "sheets": {
+    "a": "greeting, implant model, replacement alternatives, imaging explanation",
+    "b": "medication history, dental chair, bone integration model, crown fitting",
+    "c": "home care, brushing demonstration, calling clinic, interdental cleaning",
+    "d": "checklist, education booklet, portrait, clinic still life"
+  },
+  "export": "JPEG encoding of generated PNGs, without content edits.",
+  "voice": {
+    "provider": "Microsoft Edge TTS",
+    "name": "zh-TW-HsiaoChenNeural",
+    "rate": "-8%",
+    "reading": "Single narrator reads patient question followed by doctor explanation."
+  },
+  "clinical_sources": "Same medical points and precautions as original patient education deck; sources last checked 2026-10-19.",
+  "original_version": "https://maskywg.github.io/dental-implant-patient-education/",
+  "prompt_base": "Create a square 2x2 contact sheet with exactly four equal square illustration quadrants, crisp clean colored educational Japanese manga style, ink contours, subtle halftone shading, warm ivory paper, mint teal and coral accents. NO TEXT, NO LETTERS, NO speech bubbles, no captions, no logos, no divider bars; each quadrant is a complete independent scene filling its square. Keep all subjects within their quadrant. Same recurring characters in every scene: friendly East Asian woman patient age about 50, short chestnut bob, round thin glasses, mustard yellow cardigan over cream shirt; friendly East Asian woman dentist age about 35, black low ponytail, white coat over teal scrubs. Gentle reassuring adult education, NOT babyish, not photorealistic, no blood, no exposed surgical wound. Four scenes in reading order: "
+}
